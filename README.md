@@ -6,6 +6,7 @@ Este proyecto es realizado con la intención de realizar el proyecto desafio pro
 _Las herramientas empleadas para este proyecto son:_
 * Java
 * Selenium Web Driver
+* Serenity BDD
 * Screenplay
 * Cucumber
 * Gherkin
